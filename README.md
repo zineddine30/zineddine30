@@ -78,4 +78,4 @@ gantt
     dateFormat  YYYY
     axisFormat %Y
     section Freelance / Remote
-    Senior Full-Stack Developer & DevOps Engineer : active, 2010, 2026
+    Senior Full-Stack Developer & DevOps Engineer : active, 2017, 2026
