@@ -23,19 +23,19 @@ My main focus is developing reliable and maintainable backend solutions with PHP
 
 A PHP/Laravel platform built and delivered for a client through Fiverr to support web crawling, data collection, processing, and management.
 
-> Add the repository or demo link here when the project is safe to publish.
+> ...
 
 ### Stripe Payment Integration
 
 A Laravel backend integration for third-party payment workflows using Stripe.
 
-> Add the repository or technical case-study link here when available.
+> ...
 
 ### QR-Code Attendance & Access Management System
 
 A Laravel/PHP application for attendance tracking and controlled access using QR codes, digital badges, and access badges.
 
-> Add the repository or demo link here when available.
+> ...
 
 ### Smart Shift Scheduling Platform
 
@@ -71,7 +71,5 @@ I am open to remote freelance projects, contract work, backend development oppor
 - Email: zineddine.de@gmail.com
 - Location: Chlef, Algeria
 - Availability: Remote and relocation opportunities
-
-## Notes for GitHub Setup
-
-Replace the placeholder repository and demo references with real links. Do not publish client code, credentials, private data, server addresses, API keys, or proprietary business logic. For private client projects, create a sanitized case study or a small public technical demonstration instead.
+- PHP/Laravel Backend Developer: (https://drive.google.com/file/d/1v__KZJS3XCZICpRN_m7eK1msc-PjJ0Nl/view?usp=sharing)
+- PHP/Laravel Web Developer | Backend & Web Applications : (https://drive.google.com/file/d/1_E6wqg3ZrXoiTk1Xfh-FKyCVLDc3Rc_C/view?usp=sharing)
