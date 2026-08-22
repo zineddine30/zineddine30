@@ -71,5 +71,5 @@ I am open to remote freelance projects, contract work, backend development oppor
 - Email: zineddine.de@gmail.com
 - Location: Chlef, Algeria
 - Availability: Remote and relocation opportunities
-- PHP/Laravel Backend Developer: (https://drive.google.com/file/d/1v__KZJS3XCZICpRN_m7eK1msc-PjJ0Nl/view?usp=sharing)
-- PHP/Laravel Web Developer | Backend & Web Applications : (https://drive.google.com/file/d/1_E6wqg3ZrXoiTk1Xfh-FKyCVLDc3Rc_C/view?usp=sharing)
+- [PHP/Laravel Backend Developer CV] (https://drive.google.com/file/d/1v__KZJS3XCZICpRN_m7eK1msc-PjJ0Nl/view?usp=sharing)
+- [PHP/Laravel Web Developer CV] (https://drive.google.com/file/d/1_E6wqg3ZrXoiTk1Xfh-FKyCVLDc3Rc_C/view?usp=sharing)
